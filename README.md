@@ -26,8 +26,8 @@ Run the scene and display the output.
 
 ## PROGRAM:
 ```
-Developed by: M.Pavithra
-Register no: 212222100032
+Developed by: Yogabharathi S
+Register no: 212222230179
 ```
 
 ### player.cs :
